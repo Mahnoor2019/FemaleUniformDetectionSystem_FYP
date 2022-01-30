@@ -59,3 +59,4 @@ test_set = test_datagen.flow_from_directory(
     batch_size=12,
     class_mode='binary')
 
+

@@ -59,4 +59,16 @@ test_set = test_datagen.flow_from_directory(
     batch_size=12,
     class_mode='binary')
 
+# Part 3 - If the CNN weight model already exists make predictions
+if os.path.isfile("weights.h5") & os.path.isfile("model.h5"):
+    print("CNN Weight and models already exists, make the predictions")
+# Part 3 - Else Load the data and store the CNN weight model
+else:
+    epochs = 5
+    history = model.fit(
+        training_set,
+        validation_data=test_set,
+        epochs=epochs
+    )
 
+model.save('my_model.h5')

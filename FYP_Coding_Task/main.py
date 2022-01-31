@@ -30,7 +30,7 @@ model.add(Flatten())
 
 # Step 4 - Full connection
 model.add(Dense(units=128, activation='relu'))
-model.add(Dense(units=1, activation='softmax'))
+model.add(Dense(units=2, activation='softmax'))
 model.add(Activation("relu"))
 model.add(Dropout(0.5))
 

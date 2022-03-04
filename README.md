@@ -38,3 +38,22 @@ This will install python library in “myenv”.
 
 - Install some important packages used in the development of project i.e. keras, tensorflow, Sequential, Conv2D, MaxPooling2D, Flatten, Activation, Dropout, Dense.
 - Use custom dataset provided in repository place it on local storage on your system (Laptop or computer) with the same name as given in this project.
+
+### Add environment in PyCharm
+
+Go to PyCharm IDE
+- Create New project 
+- Expand Project Interpreter option 
+- Select Existing Interpreter 
+- Click on three dots 
+- Locate your_environment_name.
+
+(Also make this environment available for other projects that will be created in future, So select “Make available to all projects’ checkbox.)
+
+Download project from [Github Repository](https://github.com/Mahnoor2019/FemaleUniformDetectionSystem_FYP) and run in PyCharm IDE.
+
+
+## Guidelines
+
+Keep an eye on indentation that really matters in python for successful running of code.
+

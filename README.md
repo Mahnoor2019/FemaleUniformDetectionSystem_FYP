@@ -15,7 +15,8 @@ Anaconda distribution can be downloaded from [here](https://www.anaconda.com/pro
 ### Download & Install PyCharm
  To download PyCharm, head over to this [link](https://www.jetbrains.com/pycharm/download/#section=windows) and download the latest Community (free) version.
 
-## Create a new Anaconda virtual environment:
+## Getting Started 
+### Create a new Anaconda virtual environment:
 
 Open Anaconda Prompt Command and type
 

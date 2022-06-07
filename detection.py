@@ -38,5 +38,10 @@ while True:
                     (0, 255, 255),
                     2,
                     cv2.LINE_4)
-
+cv2.imshow("Capturing", frame)
+    key = cv2.waitKey(1)
+    if key == ord('q'):
+        break
+video.release()
+cv2.destroyAllWindows()
     

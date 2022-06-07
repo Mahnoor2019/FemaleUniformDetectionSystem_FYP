@@ -43,5 +43,4 @@ cv2.imshow("Capturing", frame)
     if key == ord('q'):
         break
 video.release()
-cv2.destroyAllWindows()
-    
+cv2.destroyAllWindows()  

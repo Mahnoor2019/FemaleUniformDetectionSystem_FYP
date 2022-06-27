@@ -1,7 +1,7 @@
 # FemaleUniformDetectionSystem_FYP
 
 ## 🚀 About Female Uniform Detection System
- This system will detect uniform of females of University of Sargodha. This system is designed for a custom dataset. You can find custom dataset in [FYP_Coding_Task/dataset](https://github.com/Mahnoor2019/FemaleUniformDetectionSystem_FYP/tree/main/FYP_Coding_Task/dataset). 
+ This system will detect uniform of females of University of Sargodha. This system is designed for a custom dataset. You can find custom dataset of uniform images from  [here](https://drive.google.com/drive/folders/1p-QNSfMTpzIBmH5-A9qzUUK4R5aDcAqm). 
  
  ## Python Distribution and IDE
 We will use the following Python distribution and IDE.
